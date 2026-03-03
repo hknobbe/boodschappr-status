@@ -9,7 +9,7 @@
     },
     "database": {
       "status": "operational",
-      "latency_ms": 10
+      "latency_ms": 14
     },
     "email": {
       "status": "operational",
@@ -19,11 +19,5 @@
       "status": "operational"
     }
   },
-  "incident": {
-    "active": true,
-    "title": "Dit is een test",
-    "message": "test",
-    "severity": "critical"
-  },
-  "updated_at": "2026-03-03T11:37:54.877223556Z"
+  "updated_at": "2026-03-03T11:38:54.876632708Z"
 }
