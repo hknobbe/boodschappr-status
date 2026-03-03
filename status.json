@@ -2,14 +2,14 @@
   "services": {
     "ai": {
       "status": "operational",
-      "latency_ms": 2
+      "latency_ms": 1
     },
     "api": {
       "status": "operational"
     },
     "database": {
       "status": "operational",
-      "latency_ms": 5
+      "latency_ms": 12
     },
     "email": {
       "status": "operational",
@@ -19,11 +19,5 @@
       "status": "operational"
     }
   },
-  "incident": {
-    "active": true,
-    "title": "testte",
-    "message": "test",
-    "severity": "warning"
-  },
-  "updated_at": "2026-03-03T11:29:54.879051282Z"
+  "updated_at": "2026-03-03T11:30:54.878373391Z"
 }
