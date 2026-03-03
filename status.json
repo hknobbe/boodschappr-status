@@ -9,7 +9,7 @@
     },
     "database": {
       "status": "operational",
-      "latency_ms": 12
+      "latency_ms": 10
     },
     "email": {
       "status": "operational",
@@ -25,5 +25,5 @@
     "message": "We onderzoeken het!\n\nUpdate:\ntest",
     "severity": "critical"
   },
-  "updated_at": "2026-03-03T11:44:56.246767532Z"
+  "updated_at": "2026-03-03T11:45:56.246641516Z"
 }
