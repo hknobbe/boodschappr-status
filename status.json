@@ -9,15 +9,21 @@
     },
     "database": {
       "status": "operational",
-      "latency_ms": 5
+      "latency_ms": 11
     },
     "email": {
       "status": "operational",
-      "latency_ms": 20
+      "latency_ms": 19
     },
     "push": {
       "status": "operational"
     }
   },
-  "updated_at": "2026-03-03T11:25:54.877992087Z"
+  "incident": {
+    "active": true,
+    "title": "Storing op de API",
+    "message": "We onderzoeken dit",
+    "severity": "warning"
+  },
+  "updated_at": "2026-03-03T11:26:54.882252498Z"
 }
