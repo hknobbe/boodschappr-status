@@ -2,14 +2,14 @@
   "services": {
     "ai": {
       "status": "operational",
-      "latency_ms": 1
+      "latency_ms": 2
     },
     "api": {
       "status": "operational"
     },
     "database": {
       "status": "operational",
-      "latency_ms": 5
+      "latency_ms": 9
     },
     "email": {
       "status": "operational",
@@ -21,9 +21,9 @@
   },
   "incident": {
     "active": true,
-    "title": "Storing op de API",
-    "message": "We onderzoeken dit",
+    "title": "testte",
+    "message": "test",
     "severity": "warning"
   },
-  "updated_at": "2026-03-03T11:27:54.884388382Z"
+  "updated_at": "2026-03-03T11:28:54.880763744Z"
 }
