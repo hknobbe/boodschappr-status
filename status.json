@@ -2,14 +2,14 @@
   "services": {
     "ai": {
       "status": "operational",
-      "latency_ms": 4
+      "latency_ms": 2
     },
     "api": {
       "status": "operational"
     },
     "database": {
       "status": "operational",
-      "latency_ms": 5
+      "latency_ms": 10
     },
     "email": {
       "status": "operational",
@@ -19,11 +19,5 @@
       "status": "operational"
     }
   },
-  "incident": {
-    "active": true,
-    "title": "DB UPDATE",
-    "message": "update",
-    "severity": "maintenance"
-  },
-  "updated_at": "2026-03-03T11:47:10.317567192Z"
+  "updated_at": "2026-03-03T11:47:56.246238207Z"
 }
