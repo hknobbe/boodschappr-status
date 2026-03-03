@@ -9,21 +9,15 @@
     },
     "database": {
       "status": "operational",
-      "latency_ms": 6
+      "latency_ms": 5
     },
     "email": {
       "status": "operational",
-      "latency_ms": 20
+      "latency_ms": 21
     },
     "push": {
       "status": "operational"
     }
   },
-  "incident": {
-    "active": true,
-    "title": "Test",
-    "message": "test",
-    "severity": "maintenance"
-  },
-  "updated_at": "2026-03-03T11:41:56.245922951Z"
+  "updated_at": "2026-03-03T11:42:56.248211991Z"
 }
