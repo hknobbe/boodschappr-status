@@ -13,7 +13,7 @@
     },
     "email": {
       "status": "operational",
-      "latency_ms": 19
+      "latency_ms": 20
     },
     "push": {
       "status": "operational"
@@ -25,5 +25,5 @@
     "message": "De app is momenteel in ontwikkeling, hierdoor kunnen er snel verschillende wijzigingen plaatsvinden.",
     "severity": "maintenance"
   },
-  "updated_at": "2026-03-03T19:09:28.792242815Z"
+  "updated_at": "2026-03-03T19:10:28.793052196Z"
 }
