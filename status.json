@@ -2,18 +2,18 @@
   "services": {
     "ai": {
       "status": "operational",
-      "latency_ms": 9
+      "latency_ms": 2
     },
     "api": {
       "status": "operational"
     },
     "database": {
       "status": "operational",
-      "latency_ms": 13
+      "latency_ms": 6
     },
     "email": {
       "status": "operational",
-      "latency_ms": 23
+      "latency_ms": 20
     },
     "push": {
       "status": "operational"
@@ -25,5 +25,5 @@
     "message": "De app is momenteel in ontwikkeling, hierdoor kunnen er snel verschillende wijzigingen plaatsvinden.",
     "severity": "maintenance"
   },
-  "updated_at": "2026-03-04T15:34:45.048994437Z"
+  "updated_at": "2026-03-04T15:35:45.051930154Z"
 }
