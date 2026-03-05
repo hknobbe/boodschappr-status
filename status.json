@@ -9,11 +9,11 @@
     },
     "database": {
       "status": "operational",
-      "latency_ms": 20
+      "latency_ms": 23
     },
     "email": {
       "status": "operational",
-      "latency_ms": 19
+      "latency_ms": 20
     },
     "push": {
       "status": "operational"
@@ -25,5 +25,5 @@
     "message": "De app is momenteel in ontwikkeling, hierdoor kunnen er snel verschillende wijzigingen plaatsvinden.",
     "severity": "maintenance"
   },
-  "updated_at": "2026-03-05T11:25:09.229554096Z"
+  "updated_at": "2026-03-05T11:26:09.237660668Z"
 }
