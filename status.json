@@ -2,22 +2,22 @@
   "services": {
     "ai": {
       "status": "operational",
-      "latency_ms": 10
+      "latency_ms": 2
     },
     "api": {
       "status": "operational"
     },
     "database": {
       "status": "operational",
-      "latency_ms": 11
+      "latency_ms": 6
     },
     "email": {
-      "status": "degraded",
-      "message": "SMTP not configured"
+      "status": "operational",
+      "latency_ms": 212
     },
     "push": {
       "status": "operational"
     }
   },
-  "updated_at": "2026-03-07T12:22:07.572599567Z"
+  "updated_at": "2026-03-07T12:22:50.090663476Z"
 }
