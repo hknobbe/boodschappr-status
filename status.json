@@ -13,11 +13,11 @@
     },
     "email": {
       "status": "operational",
-      "latency_ms": 118
+      "latency_ms": 403
     },
     "push": {
       "status": "operational"
     }
   },
-  "updated_at": "2026-03-08T05:14:21.869193772Z"
+  "updated_at": "2026-03-08T05:15:22.154566115Z"
 }
