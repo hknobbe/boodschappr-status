@@ -2,22 +2,22 @@
   "services": {
     "ai": {
       "status": "operational",
-      "latency_ms": 1
+      "latency_ms": 3
     },
     "api": {
       "status": "operational"
     },
     "database": {
       "status": "operational",
-      "latency_ms": 13
+      "latency_ms": 15
     },
     "email": {
       "status": "operational",
-      "latency_ms": 126
+      "latency_ms": 137
     },
     "push": {
       "status": "operational"
     }
   },
-  "updated_at": "2026-03-09T06:25:21.875852822Z"
+  "updated_at": "2026-03-09T06:26:21.89456253Z"
 }
