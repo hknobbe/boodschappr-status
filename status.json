@@ -9,15 +9,15 @@
     },
     "database": {
       "status": "operational",
-      "latency_ms": 14
+      "latency_ms": 13
     },
     "email": {
       "status": "operational",
-      "latency_ms": 132
+      "latency_ms": 402
     },
     "push": {
       "status": "operational"
     }
   },
-  "updated_at": "2026-03-09T15:43:35.503829396Z"
+  "updated_at": "2026-03-09T15:44:35.775034955Z"
 }
