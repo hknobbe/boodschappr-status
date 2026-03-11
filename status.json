@@ -2,22 +2,22 @@
   "services": {
     "ai": {
       "status": "operational",
-      "latency_ms": 2
+      "latency_ms": 16
     },
     "api": {
       "status": "operational"
     },
     "database": {
-      "status": "operational",
-      "latency_ms": 17
+      "status": "outage",
+      "message": "Database connection failed"
     },
     "email": {
-      "status": "operational",
-      "latency_ms": 415
+      "status": "outage",
+      "message": "Resend API unreachable"
     },
     "push": {
       "status": "operational"
     }
   },
-  "updated_at": "2026-03-11T11:15:34.992853836Z"
+  "updated_at": "2026-03-11T11:16:33.067993Z"
 }
