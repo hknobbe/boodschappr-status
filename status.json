@@ -9,7 +9,7 @@
     },
     "database": {
       "status": "operational",
-      "latency_ms": 4
+      "latency_ms": 2
     },
     "email": {
       "status": "operational",
@@ -19,5 +19,5 @@
       "status": "operational"
     }
   },
-  "updated_at": "2026-03-12T16:21:02.783683145Z"
+  "updated_at": "2026-03-12T16:22:02.784121006Z"
 }
